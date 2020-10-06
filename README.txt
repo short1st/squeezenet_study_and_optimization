@@ -1,3 +1,7 @@
+ALL FILES IN REPO CO-AUTHORED BY:   Philippe Sayegh, Ruohan Zhang, Katayoun Sayar
+
+ORIGINAL SQUEEZE NET BY: Forrest Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, Bill Dally, Kurt Keutzer
+
 # COMP551_Final_Project
 
 ## Package
